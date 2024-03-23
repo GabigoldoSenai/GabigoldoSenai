@@ -3,13 +3,13 @@
 <img align="left" height="250" width="250" alt="Me" src="my_photo.png">
 
 <div>
-<p align="left"> My name is Letícia Gabrielle, but my friends call me Gabigol~ I'm a full-stack student in SENAI - AL. I love creating creative design websites and I'm not afraid to learn a thousand things to do it. To learn outside of the programming course, I love browsing Pinterest and YouTube, asking for help only when needed</p>
+<p align="left"> My name is Letícia Gabrielle, but my friends call me Gabigol~ I'm a full-stack student in SENAI - AL. I love creating creative design websites and I'm not afraid to learn a thousand things to do it. To learn out of the programming course, I love browsing Pinterest and YouTube, asking for help only when needed</p>
 
 <p>⚡| Currently focusing on <b>Front-End</b> 👌</p>
 
 <p>🔭| Loading new ideas...</p>
 
-<p>🚀| <b>Goal: be a css animation master</b></p>
+<p>🚀| <b>Currently learning: React</b></p>
 
 </div>
 </div>
